@@ -1,0 +1,19 @@
+FBC 1.0 Spec Sheet
+
+Voltage IN:       380-400 Vdc
+Power IN (max):   1400 W
+Efficiency:       >95%
+
+Sw. Frequency:    500 kHz
+Trans. N1/N2:     2
+
+Voltage OUT:      20-150 Vdc
+Ripple:           <0.5 %
+Current OUT:      0-12 A
+
+
+
+
+
+
+
